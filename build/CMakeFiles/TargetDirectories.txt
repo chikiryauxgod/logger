@@ -1,0 +1,4 @@
+/home/lev/prog/logger/build/CMakeFiles/logger.dir
+/home/lev/prog/logger/build/CMakeFiles/logger_app.dir
+/home/lev/prog/logger/build/CMakeFiles/edit_cache.dir
+/home/lev/prog/logger/build/CMakeFiles/rebuild_cache.dir
